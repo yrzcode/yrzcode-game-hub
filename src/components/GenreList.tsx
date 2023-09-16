@@ -1,5 +1,4 @@
 import {
-  Text,
   HStack,
   Image,
   List,
